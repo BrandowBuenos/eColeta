@@ -3,21 +3,19 @@ import { FiLogIn } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
 
 import './styles.css';
-
-import Logo from '../../assets/svg/logo.svg';
+import logo from '../../assets/svg/logo.svg';
 
 const Home = () => {
     return (
         <div id="page-home">
             <div className="content">
                 <header>
-                    <img src={Logo} alt="eColeta" />
+                    <img src={logo} alt="Ecoleta"/>
                 </header>
 
                 <main>
-                    <h1>Seu marketplace de coleta de resíduos.</h1>
+                    <h1>Seu marketplace de coleta de resíduos</h1>
                     <p>Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente.</p>
-
                     <Link to="/create-point">
                         <span>
                             <FiLogIn />
@@ -27,8 +25,7 @@ const Home = () => {
                 </main>
             </div>
         </div>
-    )
+    );
 }
-
 
 export default Home;
