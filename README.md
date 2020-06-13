@@ -94,6 +94,9 @@ To run this application, you'll need:
 - [Node.js v12.18.0][nodejs] or higher - For run this project
 - [Npm v6.14.5](https://www.npmjs.com/) or higher - For manage the project dependencies
 
+[nodejs]: https://nodejs.org/
+[vc]: https://code.visualstudio.com/
+
 After, from your command line:
 
 ```bash
@@ -121,11 +124,9 @@ $ npm start
 
 <br />
 <h5 align="center">
-Made with :heart: by Brandow Buenos :wave:
+Made with :heart: by Brandow Buenos
 
 [Get in touch!](https://www.linkedin.com/in/brandowbuenos/)
 
 Use things, love people. Not the other way around.</h5>
 
-[nodejs]: https://nodejs.org/
-[vc]: https://code.visualstudio.com/
