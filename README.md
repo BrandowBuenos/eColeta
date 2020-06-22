@@ -5,7 +5,7 @@
   Software developed in the Next Level Week by @Rocketseat <br/> using Node.js, React and React Native
 </h4>
 
-![](screenshot/ecoleta.png)
+![](https://raw.githubusercontent.com/BrandowBuenos/eColeta/master/screenshot/eColeta.png)
 
 ## Prototype
 
