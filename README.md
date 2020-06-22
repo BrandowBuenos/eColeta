@@ -5,6 +5,8 @@
   Software developed in the Next Level Week by @Rocketseat <br/> using Node.js, React and React Native
 </h4>
 
+![](https://media-exp1.licdn.com/dms/image/C4D22AQF2H60NBnLmhw/feedshare-shrink_800/0?e=1595462400&v=beta&t=81lOFs0fimD93ZytJZ8zswUIOjwovNV5D70Dc7p-vMI)
+
 ## Prototype
 
 Created by @Rocketseat designer team.
